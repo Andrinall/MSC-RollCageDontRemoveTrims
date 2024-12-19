@@ -11,7 +11,7 @@ namespace RollCageDontRemoveTrims
     {
         public override string ID => "RollCageDontRemoveTrims"; // Your (unique) mod ID 
         public override string Name => "RollCageDontRemoveTrims"; // Your mod name
-        public override string Author => "Deilgame"; // Name of the Author (your name)
+        public override string Author => "Andrinall"; // Name of the Author (your name)
         public override string Version => "1.0"; // Version
         public override string Description => ""; // Short description of your mod
 
